@@ -7,6 +7,8 @@ https://bring-a-scraper.herokuapp.com/bmw
 
 https://rapidapi.com/janekgrochulski/api/bring-a-trailer-scraper
 
+## Useage
+
 ### For results filtered broadly by vehicle make, use endpoint: `.../[make]`
 *e.g.* https://bring-a-scraper.herokuapp.com/bmw
 
