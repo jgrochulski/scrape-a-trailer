@@ -1,5 +1,5 @@
-# scrape-a-trailer
-A NodeJS based web scraper API to collect current auction information from Bring a Trailer.
+# Bring-a-Scraper
+A NodeJS based web scraper API to collect current auction information from Bring-a-Trailer.
 
 Deployed to Heroku and available for use through RapidAPI:
 
