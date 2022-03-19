@@ -14,3 +14,9 @@ https://rapidapi.com/janekgrochulski/api/bring-a-trailer-scraper
 
 ### For results filtered specifically by vehicle make AND model, use endpoint: `.../[make]/[model]`
 *e.g.* https://bring-a-scraper.herokuapp.com/bmw/e46-m3
+
+<img
+  src="/demo_screenshot.png"
+  alt="bring-a-scraper demo screenshot"
+  title="demo screenshot"
+  width="600px">
